@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be1453ff9d1b4d544aae8fed06116caf, type: 3}
+  m_Name: CreatureLookup
+  m_EditorClassIdentifier: 
+  lookupTable:
+  - type: mago
+    prefab: {fileID: 8001951838529427029, guid: c46ade1719bdaaa429e932cd4e3abf12, type: 3}
+  - type: poison mago
+    prefab: {fileID: 8001951838529427029, guid: eae264ae78f1a8d4b8b00bfd3d4ebbae, type: 3}
+  - type: wooper
+    prefab: {fileID: 8001951838529427029, guid: 775000aadafef7541967497c49aeb37d, type: 3}
+  - type: shiny wooper
+    prefab: {fileID: 8001951838529427029, guid: 697364d303b4a7b418707c72d39d0daf, type: 3}
+  - type: retro skrunk
+    prefab: {fileID: 8001951838529427029, guid: d4293509088763b469f50d2671617440, type: 3}
+  - type: waterjet skrunk
+    prefab: {fileID: 8001951838529427029, guid: 4915fda05bcec01418fd3e2a42e879ff, type: 3}
+  - type: skrunk
+    prefab: {fileID: 8001951838529427029, guid: 59427d1fe76706f4c9e5150e277f02f7, type: 3}
+  - type: magical skrunk
+    prefab: {fileID: 8001951838529427029, guid: 9e571cb3f27e0d648be1ddc8661f7aad, type: 3}
+  - type: magical skrunk
+    prefab: {fileID: 8001951838529427029, guid: 9e571cb3f27e0d648be1ddc8661f7aad, type: 3}
+  - type: hungry skrunk
+    prefab: {fileID: 8001951838529427029, guid: aab4c71480b69814fb27694b0a06ca1b, type: 3}
+  - type: greenfeather skrunk
+    prefab: {fileID: 8001951838529427029, guid: 26eefb088d61f0f4f8dba32637653f28, type: 3}
+  - type: chillbreath mago
+    prefab: {fileID: 8001951838529427029, guid: 8ea5288960b69c34e80522d556d2ab02, type: 3}
+  - type: fluorescent mago
+    prefab: {fileID: 8001951838529427029, guid: 297ca177536dce044878f0ccbe4b8c1c, type: 3}
+  - type: lava puddle mago
+    prefab: {fileID: 8001951838529427029, guid: c5481643a2d1626438d6482bf3ad64a6, type: 3}
+  - type: snowskin mago
+    prefab: {fileID: 8001951838529427029, guid: 1b0bacdaca1181b4c99ba7eff44e4374, type: 3}
+  - type: sneaky mago
+    prefab: {fileID: 8001951838529427029, guid: edeeab554a8878a4dba3cf541059b219, type: 3}
+  - type: scorchburn mago
+    prefab: {fileID: 8001951838529427029, guid: 04c1f11ca085fd2419f73cccd0bc7c83, type: 3}
